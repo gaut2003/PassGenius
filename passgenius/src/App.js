@@ -19,7 +19,7 @@ const CopyButton = styled(Button)({
   marginLeft: 1,
   backgroundColor: 'green', // Green background color
   '&:hover': {
-    backgroundColor: 'blue', // Darker green on hover
+    backgroundColor: 'blue', // Blue on hover
   },
   color: '#fff',// White text color
   width: "30px"
